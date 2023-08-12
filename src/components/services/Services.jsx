@@ -30,10 +30,6 @@ const Services = () => {
                             clients and peers.
                         </p>
                         <ul className="services__modal-services grid">
-                            <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I develop the Software. (In Python Generally)</p>
-                            </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
@@ -81,11 +77,6 @@ const Services = () => {
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I develop the Backend Ideas.</p>
-                            </li>
-
-                            <li className="services__modal-service">
-                                <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">BackEnd Development</p>
                             </li>
 
@@ -97,7 +88,7 @@ const Services = () => {
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">I can create your BackEnd strong</p>
+                                <p className="services__modal-info">I can understand scenarios.</p>
                             </li>
 
                             <li className="services__modal-service">

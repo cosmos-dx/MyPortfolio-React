@@ -30,13 +30,12 @@ const sendEmail = (e) => {
                     </div>
 
                     <div className="contact__card">
-                        <i className="uil uil-whatsapp contact__card-icon"></i>
+                        <i className="uil uil-twitter contact__card-icon"></i>
 
-                        <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">+91-7839939905</span>
+                        <h3 className="contact__card-title">Twitter</h3>
+                        <span className="contact__card-data">abhi18_01</span>
 
-                        <a href="https://api.whatsapp.com/send?
-                        phone=7839939905&text=Hello, more information!" className="contact__button">Write me <i className="bx bx-right-arrow-alt
+                        <a href="https://twitter.com/messages/compose?recipient_id=abhi18_01" className="contact__button">Write me <i className="bx bx-right-arrow-alt
                         contact__button-icon"></i></a>
                     </div>
 

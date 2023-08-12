@@ -57,8 +57,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Backend Developer</h3>
         <p className="home__description">
-            I am a backend developer. I created various of projects on different 
-            platforms such as Web and Android also. Currently I am working on Machine Learning
+            I am a backend developer. I have created various projects on different 
+            platforms such as Web and Android. Currently I am working on Machine Learning
         </p>
         <a href="#contact" className="button button--flex">
             Say Hello !
